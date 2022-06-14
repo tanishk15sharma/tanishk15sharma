@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanishk Sharma </h1>
 <h4 align="center">I am Passionate about tech and highly adaptable to new technologies. An Intermediate Web Developer and An Expert Learner.</h4>
 
-*  💬 Hit me up, for discussions regarding **HTML, CSS, JavaScript and ReactJs.**
-* ✉️ You can contact me at [tanishk158sharma@gmail.com](mailto:tanishk158sharma@gmail.com)
-* ⚡   Fun fact I love to create websites, using Vanilla CSS, rather than using frameworks or libraries!
+*  💬  Hit me up, for discussions regarding **HTML, CSS, JavaScript and ReactJs.**
+*  ✉️  You can contact me at [tanishk158sharma@gmail.com](mailto:tanishk158sharma@gmail.com)
+*  ⚡   Fun fact I love to create websites, using Vanilla CSS, rather than using frameworks or libraries!
   
 </br>
 <a href="https://www.twitter.com/_tanishksharma" target="_blank" rel="noreferrer"><img
@@ -35,7 +35,7 @@ src="https://img.shields.io/github/followers/tanishk15sharma?logo=github&style=f
 
 ### Socials
 
-<p align="left"> <a href="https://www.codesandbox.com/tanishk15sharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.dev.to/tanishk15sharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/tanishk15sharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tanishk15sharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_tanishksharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://codesandbox.io/u/tanishk15sharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.dev.to/tanishk15sharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/tanishk15sharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tanishk15sharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_tanishksharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
