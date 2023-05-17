@@ -32,7 +32,6 @@ src="https://img.shields.io/github/followers/tanishk15sharma?logo=github&style=f
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
